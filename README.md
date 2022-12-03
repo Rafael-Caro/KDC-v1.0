@@ -11,4 +11,4 @@ As a result of the review process, and attending the useful suggestions from the
 
 In the meantime, the data, with its original structure, and the corresponding code are available in the following repository: [https://ln5.sync.com/dl/15243b270/uznw3nwd-t7g8mgxs-epk98yvu-vyiww5yg](https://ln5.sync.com/dl/15243b270/uznw3nwd-t7g8mgxs-epk98yvu-vyiww5yg)
 
-For any question, please contact [Babak Nikza](mailto:b.nikzat@kug.ac.at) or [Rafael Caro Repetto](mailto:rafael.caro-repetto@kug.ac.at)
+For any question, please contact [Babak Nikzat](mailto:b.nikzat@kug.ac.at) or [Rafael Caro Repetto](mailto:rafael.caro-repetto@kug.ac.at)
