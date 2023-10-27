@@ -1,0 +1,51 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 100.22571428571429 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_SUD_A_FS_P" 
+        xmin = 0 
+        xmax = 100.22571428571429 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.667628188240929 
+            text = "" 
+        intervals [2]:
+            xmin = 1.667628188240929 
+            xmax = 9.316874865285595 
+            text = "P02
+typical beginning motif for Daramad-e Shour; here with repetitions." 
+        intervals [3]:
+            xmin = 9.316874865285595 
+            xmax = 16.96612154233026 
+            text = "" 
+        intervals [4]:
+            xmin = 16.96612154233026 
+            xmax = 20.33179008022991 
+            text = "P02" 
+        intervals [5]:
+            xmin = 20.33179008022991 
+            xmax = 70.51084828164292 
+            text = "" 
+        intervals [6]:
+            xmin = 70.51084828164292 
+            xmax = 76.01830588911507 
+            text = "P01" 
+        intervals [7]:
+            xmin = 76.01830588911507 
+            xmax = 93.56057826847083 
+            text = "" 
+        intervals [8]:
+            xmin = 93.56057826847083 
+            xmax = 99.17002583163693 
+            text = "P01" 
+        intervals [9]:
+            xmin = 99.17002583163693 
+            xmax = 100.22571428571429 
+            text = "" 

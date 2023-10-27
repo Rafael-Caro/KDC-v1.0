@@ -1,0 +1,27 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 205.49891156462584 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_SED_A_FS_P" 
+        xmin = 0 
+        xmax = 205.49891156462584 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32284688600167655 
+            text = "" 
+        intervals [2]:
+            xmin = 0.32284688600167655 
+            xmax = 5.759869220139022 
+            text = "P01
+The very interval of Segah itslef, plus the tone in between." 
+        intervals [3]:
+            xmin = 5.759869220139022 
+            xmax = 205.49891156462584 
+            text = "" 

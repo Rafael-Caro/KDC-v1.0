@@ -1,0 +1,77 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 82.42884353741496 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_NAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 82.42884353741496 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.545732544321614 
+            text = " " 
+        intervals [2]:
+            xmin = 4.545732544321614 
+            xmax = 8.28509456502673 
+            text = "P02
+very common melody movement." 
+        intervals [3]:
+            xmin = 8.28509456502673 
+            xmax = 29.552716057787084 
+            text = "" 
+        intervals [4]:
+            xmin = 29.552716057787084 
+            xmax = 32.298810041742406 
+            text = "P02" 
+        intervals [5]:
+            xmin = 32.298810041742406 
+            xmax = 32.46848287277476 
+            text = "" 
+        intervals [6]:
+            xmin = 32.46848287277476 
+            xmax = 34.58791659829732 
+            text = "P01
+signature motif for many Nava phrases; especially to close a phrase." 
+        intervals [7]:
+            xmin = 34.58791659829732 
+            xmax = 40.05243262870085 
+            text = "" 
+        intervals [8]:
+            xmin = 40.05243262870085 
+            xmax = 43.55441454520359 
+            text = "P02" 
+        intervals [9]:
+            xmin = 43.55441454520359 
+            xmax = 53.28272830852062 
+            text = "" 
+        intervals [10]:
+            xmin = 53.28272830852062 
+            xmax = 55.075460928864715 
+            text = "P02" 
+        intervals [11]:
+            xmin = 55.075460928864715 
+            xmax = 55.56836674030825 
+            text = "" 
+        intervals [12]:
+            xmin = 55.56836674030825 
+            xmax = 56.87337404393218 
+            text = "P01" 
+        intervals [13]:
+            xmin = 56.87337404393218 
+            xmax = 77.70214011210518 
+            text = "" 
+        intervals [14]:
+            xmin = 77.70214011210518 
+            xmax = 81.56061147715414 
+            text = "P02 
+shorter version" 
+        intervals [15]:
+            xmin = 81.56061147715414 
+            xmax = 82.42884353741496 
+            text = "" 

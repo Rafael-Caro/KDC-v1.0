@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 91.892125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ESD_A_RR_P" 
+        xmin = 0 
+        xmax = 91.892125 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.057302605500139 
+            text = "P1" 
+        intervals [2]:
+            xmin = 3.057302605500139 
+            xmax = 11.475047856488755 
+            text = "" 
+        intervals [3]:
+            xmin = 11.475047856488755 
+            xmax = 17.45790811752199 
+            text = "P2" 
+        intervals [4]:
+            xmin = 17.45790811752199 
+            xmax = 23.927745376546298 
+            text = "P3" 
+        intervals [5]:
+            xmin = 23.927745376546298 
+            xmax = 30.328014493000452 
+            text = "" 
+        intervals [6]:
+            xmin = 30.328014493000452 
+            xmax = 33.31944462351707 
+            text = "P1" 
+        intervals [7]:
+            xmin = 33.31944462351707 
+            xmax = 34.7803756174903 
+            text = "" 
+        intervals [8]:
+            xmin = 34.7803756174903 
+            xmax = 38.60662345884876 
+            text = "P4" 
+        intervals [9]:
+            xmin = 38.60662345884876 
+            xmax = 91.892125 
+            text = "" 

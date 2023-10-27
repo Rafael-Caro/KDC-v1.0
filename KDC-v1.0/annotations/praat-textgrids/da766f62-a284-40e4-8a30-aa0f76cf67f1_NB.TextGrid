@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 217.72009070294786 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_ESD_A_FS_P" 
+        xmin = 0 
+        xmax = 217.72009070294786 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4991617770326906 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4991617770326906 
+            xmax = 3.8267225481978207 
+            text = "P01 
+one of the most common motifs to open Esfahan" 
+        intervals [3]:
+            xmin = 3.8267225481978207 
+            xmax = 28.701325012790605 
+            text = "" 
+        intervals [4]:
+            xmin = 28.701325012790605 
+            xmax = 32.02888578395574 
+            text = "P02
+common to end phrases in Daramad-e Esfahan" 
+        intervals [5]:
+            xmin = 32.02888578395574 
+            xmax = 215.3286827913395 
+            text = "" 
+        intervals [6]:
+            xmin = 215.3286827913395 
+            xmax = 217.53449025680797 
+            text = "P02" 
+        intervals [7]:
+            xmin = 217.53449025680797 
+            xmax = 217.72009070294786 
+            text = "" 

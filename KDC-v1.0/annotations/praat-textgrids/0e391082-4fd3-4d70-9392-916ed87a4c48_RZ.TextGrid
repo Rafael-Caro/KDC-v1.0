@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 127.4674375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "MAD_A_RR_P" 
+        xmin = 0 
+        xmax = 127.4674375 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5738789903181953 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5738789903181953 
+            xmax = 5.6884267477867 
+            text = "P1" 
+        intervals [3]:
+            xmin = 5.6884267477867 
+            xmax = 10.51347180200227 
+            text = "" 
+        intervals [4]:
+            xmin = 10.51347180200227 
+            xmax = 17.075533075735446 
+            text = "P2" 
+        intervals [5]:
+            xmin = 17.075533075735446 
+            xmax = 21.900578129951015 
+            text = "P3" 
+        intervals [6]:
+            xmin = 21.900578129951015 
+            xmax = 31.26116553512922 
+            text = "" 
+        intervals [7]:
+            xmin = 31.26116553512922 
+            xmax = 39.36724122621138 
+            text = "P2" 
+        intervals [8]:
+            xmin = 39.36724122621138 
+            xmax = 62.52745748644612 
+            text = "" 
+        intervals [9]:
+            xmin = 62.52745748644612 
+            xmax = 66.00148992548132 
+            text = "P4" 
+        intervals [10]:
+            xmin = 66.00148992548132 
+            xmax = 93.02174222908852 
+            text = "" 
+        intervals [11]:
+            xmin = 93.02174222908852 
+            xmax = 101.80332422776085 
+            text = "P5" 
+        intervals [12]:
+            xmin = 101.80332422776085 
+            xmax = 107.11087378739798 
+            text = "P6" 
+        intervals [13]:
+            xmin = 107.11087378739798 
+            xmax = 119.36648822510553 
+            text = "" 
+        intervals [14]:
+            xmin = 119.36648822510553 
+            xmax = 126.50755490534458 
+            text = "P2" 
+        intervals [15]:
+            xmin = 126.50755490534458 
+            xmax = 127.4674375 
+            text = "" 

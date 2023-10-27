@@ -1,0 +1,105 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 102.49775510204081 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_AFD_N_MKH_P" 
+        xmin = 0 
+        xmax = 102.49775510204081 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3925260810510285 
+            text = " " 
+        intervals [2]:
+            xmin = 1.3925260810510285 
+            xmax = 11.301215180731134 
+            text = "P01
+typical opening phrase for Daramad in Afshari, the MOTAQAYYER is extra important." 
+        intervals [3]:
+            xmin = 11.301215180731134 
+            xmax = 41.08592055452293 
+            text = " " 
+        intervals [4]:
+            xmin = 41.08592055452293 
+            xmax = 42.911205388674524 
+            text = "P02
+typical motif at the end of phrase; falling on the last tone like a shadow." 
+        intervals [5]:
+            xmin = 42.911205388674524 
+            xmax = 46.24238200591888 
+            text = " " 
+        intervals [6]:
+            xmin = 46.24238200591888 
+            xmax = 47.98944034717826 
+            text = "P02
+with a connection to the repeated movement." 
+        intervals [7]:
+            xmin = 47.98944034717826 
+            xmax = 50.99460965420303 
+            text = "" 
+        intervals [8]:
+            xmin = 50.99460965420303 
+            xmax = 53.471781929123054 
+            text = "P02
+extended at the end with a miniature Tahrir." 
+        intervals [9]:
+            xmin = 53.471781929123054 
+            xmax = 55.420528424614254 
+            text = " " 
+        intervals [10]:
+            xmin = 55.420528424614254 
+            xmax = 60.60955245313094 
+            text = "P01 variation
+a jump from below added; yet with the same show of MOTAQAYYER." 
+        intervals [11]:
+            xmin = 60.60955245313094 
+            xmax = 66.15572964640471 
+            text = "" 
+        intervals [12]:
+            xmin = 66.15572964640471 
+            xmax = 68.00708997818704 
+            text = "P02" 
+        intervals [13]:
+            xmin = 68.00708997818704 
+            xmax = 68.08531647107925 
+            text = " " 
+        intervals [14]:
+            xmin = 68.08531647107925 
+            xmax = 69.67592182655422 
+            text = "P02" 
+        intervals [15]:
+            xmin = 69.67592182655422 
+            xmax = 71.00577220572181 
+            text = "" 
+        intervals [16]:
+            xmin = 71.00577220572181 
+            xmax = 72.3356225848894 
+            text = "P02" 
+        intervals [17]:
+            xmin = 72.3356225848894 
+            xmax = 73.58724647116479 
+            text = "" 
+        intervals [18]:
+            xmin = 73.58724647116479 
+            xmax = 74.55203988350206 
+            text = "P02
+only with a different articulation." 
+        intervals [19]:
+            xmin = 74.55203988350206 
+            xmax = 96.90844855799989 
+            text = "" 
+        intervals [20]:
+            xmin = 96.90844855799989 
+            xmax = 100.40256524051867 
+            text = "P02
+a longer version" 
+        intervals [21]:
+            xmin = 100.40256524051867 
+            xmax = 102.49775510204081 
+            text = "" 

@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 48.6884375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_SED_N_RR_P" 
+        xmin = 0 
+        xmax = 48.6884375 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.444968083948623 
+            text = "" 
+        intervals [2]:
+            xmin = 6.444968083948623 
+            xmax = 10.334291242693432 
+            text = "P01" 
+        intervals [3]:
+            xmin = 10.334291242693432 
+            xmax = 15.22731070046916 
+            text = "P02" 
+        intervals [4]:
+            xmin = 15.22731070046916 
+            xmax = 17.109241261152132 
+            text = "" 
+        intervals [5]:
+            xmin = 17.109241261152132 
+            xmax = 19.116633859213966 
+            text = "P03" 
+        intervals [6]:
+            xmin = 19.116633859213966 
+            xmax = 24.929708257768034 
+            text = "" 
+        intervals [7]:
+            xmin = 24.929708257768034 
+            xmax = 28.317183266997386 
+            text = "P04" 
+        intervals [8]:
+            xmin = 28.317183266997386 
+            xmax = 30.36639654418551 
+            text = "" 
+        intervals [9]:
+            xmin = 30.36639654418551 
+            xmax = 32.66653389613136 
+            text = "P05" 
+        intervals [10]:
+            xmin = 32.66653389613136 
+            xmax = 37.85229810779111 
+            text = "" 
+        intervals [11]:
+            xmin = 37.85229810779111 
+            xmax = 40.23607681798954 
+            text = "P04" 
+        intervals [12]:
+            xmin = 40.23607681798954 
+            xmax = 44.418144730618366 
+            text = "" 
+        intervals [13]:
+            xmin = 44.418144730618366 
+            xmax = 45.88186850003846 
+            text = "P06" 
+        intervals [14]:
+            xmin = 45.88186850003846 
+            xmax = 48.6884375 
+            text = "" 

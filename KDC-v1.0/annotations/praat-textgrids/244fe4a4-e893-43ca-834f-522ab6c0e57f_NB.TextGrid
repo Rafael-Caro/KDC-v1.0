@@ -1,0 +1,53 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 53.265850340136055 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_SUD_N_MKH_P" 
+        xmin = 0 
+        xmax = 53.265850340136055 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23583421751600875 
+            text = "" 
+        intervals [2]:
+            xmin = 0.23583421751600875 
+            xmax = 3.5422460206077395 
+            text = "P02
+typical beginning in Daramad-e Shour" 
+        intervals [3]:
+            xmin = 3.5422460206077395 
+            xmax = 8.528965461336252 
+            text = "" 
+        intervals [4]:
+            xmin = 8.528965461336252 
+            xmax = 12.485818930609963 
+            text = "P01 
+introducing the essential Jins (main intervals) for Shour" 
+        intervals [5]:
+            xmin = 12.485818930609963 
+            xmax = 22.025630034612334 
+            text = "" 
+        intervals [6]:
+            xmin = 22.025630034612334 
+            xmax = 24.139565449703767 
+            text = "P01 
+shorter version" 
+        intervals [7]:
+            xmin = 24.139565449703767 
+            xmax = 49.723604319528306 
+            text = "" 
+        intervals [8]:
+            xmin = 49.723604319528306 
+            xmax = 51.89174320680157 
+            text = "P01" 
+        intervals [9]:
+            xmin = 51.89174320680157 
+            xmax = 53.265850340136055 
+            text = "" 

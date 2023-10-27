@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 57.410333333333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_DAD_N_RR_P" 
+        xmin = 0 
+        xmax = 57.410333333333334 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.9503890525560177 
+            text = "" 
+        intervals [2]:
+            xmin = 3.9503890525560177 
+            xmax = 7.648812002871354 
+            text = "P01" 
+        intervals [3]:
+            xmin = 7.648812002871354 
+            xmax = 10.854111893144646 
+            text = "" 
+        intervals [4]:
+            xmin = 10.854111893144646 
+            xmax = 12.727979521304416 
+            text = "P01" 
+        intervals [5]:
+            xmin = 12.727979521304416 
+            xmax = 22.34387919212429 
+            text = "" 
+        intervals [6]:
+            xmin = 22.34387919212429 
+            xmax = 23.5273745362252 
+            text = "P02" 
+        intervals [7]:
+            xmin = 23.5273745362252 
+            xmax = 24.661557574321904 
+            text = "" 
+        intervals [8]:
+            xmin = 24.661557574321904 
+            xmax = 25.697116000410198 
+            text = "P02" 
+        intervals [9]:
+            xmin = 25.697116000410198 
+            xmax = 45.42203840209199 
+            text = "" 
+        intervals [10]:
+            xmin = 45.42203840209199 
+            xmax = 48.52871368035687 
+            text = "P03" 
+        intervals [11]:
+            xmin = 48.52871368035687 
+            xmax = 49.21908596441574 
+            text = "" 
+        intervals [12]:
+            xmin = 49.21908596441574 
+            xmax = 52.0298874066554 
+            text = "P03" 
+        intervals [13]:
+            xmin = 52.0298874066554 
+            xmax = 57.410333333333334 
+            text = "" 

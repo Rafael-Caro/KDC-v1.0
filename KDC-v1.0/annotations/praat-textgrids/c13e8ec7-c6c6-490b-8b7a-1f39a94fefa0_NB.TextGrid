@@ -1,0 +1,95 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 100.20369614512471 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_RAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 100.20369614512471 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.561704233235065 
+            text = "" 
+        intervals [2]:
+            xmin = 6.561704233235065 
+            xmax = 8.906957882660189 
+            text = "P01
+Most common motif for closing phrases in Daramad-e Rast-o-Panjgah " 
+        intervals [3]:
+            xmin = 8.906957882660189 
+            xmax = 15.02501088116051 
+            text = "" 
+        intervals [4]:
+            xmin = 15.02501088116051 
+            xmax = 16.860426780710608 
+            text = "P01" 
+        intervals [5]:
+            xmin = 16.860426780710608 
+            xmax = 27.872922178011184 
+            text = "" 
+        intervals [6]:
+            xmin = 27.872922178011184 
+            xmax = 29.70833807756128 
+            text = "P01" 
+        intervals [7]:
+            xmin = 29.70833807756128 
+            xmax = 31.033916227236354 
+            text = "" 
+        intervals [8]:
+            xmin = 31.033916227236354 
+            xmax = 32.767364576811445 
+            text = "P01 variation
+only with an added double garce-note movement in the beginning. Many performances of Rast-o-Panjgah are using this variation of the pattern." 
+        intervals [9]:
+            xmin = 32.767364576811445 
+            xmax = 33.22621855169897 
+            text = "" 
+        intervals [10]:
+            xmin = 33.22621855169897 
+            xmax = 34.653764251349045 
+            text = "P01 variation
++added double grace-note." 
+        intervals [11]:
+            xmin = 34.653764251349045 
+            xmax = 35.367537101174086 
+            text = "" 
+        intervals [12]:
+            xmin = 35.367537101174086 
+            xmax = 44.18773017401205 
+            text = "P02
+Signature melody for Rast-o-Panjgah; also used a lot as a 'Foroud' motif" 
+        intervals [13]:
+            xmin = 44.18773017401205 
+            xmax = 81.201950814939 
+            text = " " 
+        intervals [14]:
+            xmin = 81.201950814939 
+            xmax = 83.2413018144391 
+            text = "P01 variation" 
+        intervals [15]:
+            xmin = 83.2413018144391 
+            xmax = 84.17690028163152 
+            text = "" 
+        intervals [16]:
+            xmin = 84.17690028163152 
+            xmax = 94.57759037908207 
+            text = "P02
+the signature melody" 
+        intervals [17]:
+            xmin = 94.57759037908207 
+            xmax = 95.4443145538696 
+            text = "" 
+        intervals [18]:
+            xmin = 95.4443145538696 
+            xmax = 97.68760065331973 
+            text = "P01" 
+        intervals [19]:
+            xmin = 97.68760065331973 
+            xmax = 100.20369614512471 
+            text = "" 

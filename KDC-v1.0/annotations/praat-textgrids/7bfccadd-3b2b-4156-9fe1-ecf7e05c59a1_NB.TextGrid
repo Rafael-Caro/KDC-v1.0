@@ -1,0 +1,35 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 124.57356009070294 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_BAD_A_FS_P" 
+        xmin = 0 
+        xmax = 124.57356009070294 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4941861327129344 
+            text = "" 
+        intervals [2]:
+            xmin = 2.4941861327129344 
+            xmax = 8.895888771841792 
+            text = "P01
+Signature motif for Daramad in Chahargah" 
+        intervals [3]:
+            xmin = 8.895888771841792 
+            xmax = 48.95406766223226 
+            text = "" 
+        intervals [4]:
+            xmin = 48.95406766223226 
+            xmax = 53.264124884616045 
+            text = "P01" 
+        intervals [5]:
+            xmin = 53.264124884616045 
+            xmax = 124.57356009070294 
+            text = "" 

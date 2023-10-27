@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 99.36634920634921 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_DAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 99.36634920634921 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.1129172873508155 
+            text = "" 
+        intervals [2]:
+            xmin = 4.1129172873508155 
+            xmax = 8.208093558456072 
+            text = "P01
+very common motif to begin Daramad-e Dashti with.
+It can have less or more of the emphasis on the first interval." 
+        intervals [3]:
+            xmin = 8.208093558456072 
+            xmax = 9.219248193296876 
+            text = "" 
+        intervals [4]:
+            xmin = 9.219248193296876 
+            xmax = 11.443788389946645 
+            text = "P02" 
+        intervals [5]:
+            xmin = 11.443788389946645 
+            xmax = 17.965735784669832 
+            text = "" 
+        intervals [6]:
+            xmin = 17.965735784669832 
+            xmax = 20.34194917654572 
+            text = "P02" 
+        intervals [7]:
+            xmin = 20.34194917654572 
+            xmax = 25.802184204686064 
+            text = "" 
+        intervals [8]:
+            xmin = 25.802184204686064 
+            xmax = 28.17839759656195 
+            text = "P02" 
+        intervals [9]:
+            xmin = 28.17839759656195 
+            xmax = 32.96988827234931 
+            text = "" 
+        intervals [10]:
+            xmin = 32.96988827234931 
+            xmax = 36.508929494292126 
+            text = "P03
+typical motif to show the 'Motaqayyer' tone." 
+        intervals [11]:
+            xmin = 36.508929494292126 
+            xmax = 53.832990722252234 
+            text = "" 
+        intervals [12]:
+            xmin = 53.832990722252234 
+            xmax = 59.24266801865054 
+            text = "P01
+shorter version" 
+        intervals [13]:
+            xmin = 59.24266801865054 
+            xmax = 66.92744324344065 
+            text = "" 
+        intervals [14]:
+            xmin = 66.92744324344065 
+            xmax = 69.0003102448643 
+            text = "P02" 
+        intervals [15]:
+            xmin = 69.0003102448643 
+            xmax = 77.20432168709004 
+            text = "" 
+        intervals [16]:
+            xmin = 77.20432168709004 
+            xmax = 80.94559383600101 
+            text = "P03 variation" 
+        intervals [17]:
+            xmin = 80.94559383600101 
+            xmax = 99.36634920634921 
+            text = "" 

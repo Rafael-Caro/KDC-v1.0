@@ -1,0 +1,35 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 107.21684807256236 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_DAD_A_FS_P" 
+        xmin = 0 
+        xmax = 107.21684807256236 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 20.440761771178433 
+            text = "" 
+        intervals [2]:
+            xmin = 20.440761771178433 
+            xmax = 29.71461470714466 
+            text = "P01 
+longer version (+ an added move from the higher notes)." 
+        intervals [3]:
+            xmin = 29.71461470714466 
+            xmax = 79.2478998004231 
+            text = "" 
+        intervals [4]:
+            xmin = 79.2478998004231 
+            xmax = 83.2847534313731 
+            text = "P03" 
+        intervals [5]:
+            xmin = 83.2847534313731 
+            xmax = 107.21684807256236 
+            text = "" 

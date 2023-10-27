@@ -1,0 +1,45 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 103.7324716553288 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_ESD_N_MKH_P" 
+        xmin = 0 
+        xmax = 103.7324716553288 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.00501403569195 
+            text = "" 
+        intervals [2]:
+            xmin = 14.00501403569195 
+            xmax = 16.643975070678728 
+            text = "P02 variation?
+here we have an example of the concept (if we take it as a signature motif) appears in reverse order of tones around Shahed." 
+        intervals [3]:
+            xmin = 16.643975070678728 
+            xmax = 51.44400206206651 
+            text = "" 
+        intervals [4]:
+            xmin = 51.44400206206651 
+            xmax = 58.516417635831075 
+            text = "P01
+common opening motif for Esfahan Daramad" 
+        intervals [5]:
+            xmin = 58.516417635831075 
+            xmax = 95.93827632698678 
+            text = "" 
+        intervals [6]:
+            xmin = 95.93827632698678 
+            xmax = 97.38970489622952 
+            text = "P02
+very common to end phrases" 
+        intervals [7]:
+            xmin = 97.38970489622952 
+            xmax = 103.7324716553288 
+            text = "" 

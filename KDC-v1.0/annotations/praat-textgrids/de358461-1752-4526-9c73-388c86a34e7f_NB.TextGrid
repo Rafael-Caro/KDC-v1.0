@@ -1,0 +1,53 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 56.55419501133787 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_HOD_A_FS_P" 
+        xmin = 0 
+        xmax = 56.55419501133787 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5381418455730992 
+            text = " " 
+        intervals [2]:
+            xmin = 0.5381418455730992 
+            xmax = 2.5523813644597264 
+            text = "P02
+very common opening motif in Daramad-e Homayoun." 
+        intervals [3]:
+            xmin = 2.5523813644597264 
+            xmax = 8.364901118961136 
+            text = "" 
+        intervals [4]:
+            xmin = 8.364901118961136 
+            xmax = 11.069737044323178 
+            text = "P01" 
+        intervals [5]:
+            xmin = 11.069737044323178 
+            xmax = 20.91073583659784 
+            text = " " 
+        intervals [6]:
+            xmin = 20.91073583659784 
+            xmax = 25.687360981386128 
+            text = "P02
+a longer version" 
+        intervals [7]:
+            xmin = 25.687360981386128 
+            xmax = 48.64969149669368 
+            text = "" 
+        intervals [8]:
+            xmin = 48.64969149669368 
+            xmax = 55.67075496252706 
+            text = "P03
+a common ending phrase." 
+        intervals [9]:
+            xmin = 55.67075496252706 
+            xmax = 56.55419501133787 
+            text = "" 

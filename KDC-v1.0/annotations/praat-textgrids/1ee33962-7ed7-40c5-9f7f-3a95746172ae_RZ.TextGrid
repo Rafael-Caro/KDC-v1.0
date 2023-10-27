@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 154.33910416666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "NAD_A_RR_P" 
+        xmin = 0 
+        xmax = 154.33910416666666 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8117040235504079 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8117040235504079 
+            xmax = 5.485482022618987 
+            text = "P1" 
+        intervals [3]:
+            xmin = 5.485482022618987 
+            xmax = 8.056059922106705 
+            text = "" 
+        intervals [4]:
+            xmin = 8.056059922106705 
+            xmax = 13.314060171058857 
+            text = "P2" 
+        intervals [5]:
+            xmin = 13.314060171058857 
+            xmax = 29.204905367892025 
+            text = "" 
+        intervals [6]:
+            xmin = 29.204905367892025 
+            xmax = 37.500861316238755 
+            text = "P3" 
+        intervals [7]:
+            xmin = 37.500861316238755 
+            xmax = 40.07143921572647 
+            text = "" 
+        intervals [8]:
+            xmin = 40.07143921572647 
+            xmax = 45.56312836463205 
+            text = "P1" 
+        intervals [9]:
+            xmin = 45.56312836463205 
+            xmax = 46.7315728643992 
+            text = "" 
+        intervals [10]:
+            xmin = 46.7315728643992 
+            xmax = 51.28850641349106 
+            text = "P2" 
+        intervals [11]:
+            xmin = 51.28850641349106 
+            xmax = 108.42544245210443 
+            text = "" 
+        intervals [12]:
+            xmin = 108.42544245210443 
+            xmax = 114.15082050096345 
+            text = "P4" 
+        intervals [13]:
+            xmin = 114.15082050096345 
+            xmax = 125.95210994861161 
+            text = "" 
+        intervals [14]:
+            xmin = 125.95210994861161 
+            xmax = 127.82162114823905 
+            text = "P3" 
+        intervals [15]:
+            xmin = 127.82162114823905 
+            xmax = 128.4058433981226 
+            text = "" 
+        intervals [16]:
+            xmin = 128.4058433981226 
+            xmax = 130.39219904772676 
+            text = "P3" 
+        intervals [17]:
+            xmin = 130.39219904772676 
+            xmax = 146.1661997945832 
+            text = "" 
+        intervals [18]:
+            xmin = 146.1661997945832 
+            xmax = 152.70948899327922 
+            text = "P3" 
+        intervals [19]:
+            xmin = 152.70948899327922 
+            xmax = 154.33910416666666 
+            text = "" 

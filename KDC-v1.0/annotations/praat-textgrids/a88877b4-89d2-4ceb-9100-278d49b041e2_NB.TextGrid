@@ -1,0 +1,53 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 63.062131519274374 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_HOD_N_MKH_P" 
+        xmin = 0 
+        xmax = 63.062131519274374 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.209804162983998 
+            text = "" 
+        intervals [2]:
+            xmin = 7.209804162983998 
+            xmax = 11.18848020254204 
+            text = "P01
+it is more like a melody model rather than a pattern." 
+        intervals [3]:
+            xmin = 11.18848020254204 
+            xmax = 13.306162610693901 
+            text = "" 
+        intervals [4]:
+            xmin = 13.306162610693901 
+            xmax = 15.873050378150703 
+            text = "P01" 
+        intervals [5]:
+            xmin = 15.873050378150703 
+            xmax = 16.57894451420132 
+            text = "" 
+        intervals [6]:
+            xmin = 16.57894451420132 
+            xmax = 19.27417667003096 
+            text = "P01
+plus a grace note at then end in a falling direction." 
+        intervals [7]:
+            xmin = 19.27417667003096 
+            xmax = 44.22397175962813 
+            text = "" 
+        intervals [8]:
+            xmin = 44.22397175962813 
+            xmax = 46.75877342999172 
+            text = "P01
+plus added notes in the end." 
+        intervals [9]:
+            xmin = 46.75877342999172 
+            xmax = 63.062131519274374 
+            text = "" 

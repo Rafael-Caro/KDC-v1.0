@@ -1,0 +1,79 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 109.28521541950113 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_BAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 109.28521541950113 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7997351541208824 
+            text = " " 
+        intervals [2]:
+            xmin = 2.7997351541208824 
+            xmax = 7.970950322307185 
+            text = "P02
+longer version " 
+        intervals [3]:
+            xmin = 7.970950322307185 
+            xmax = 22.66254819782062 
+            text = "" 
+        intervals [4]:
+            xmin = 22.66254819782062 
+            xmax = 25.959580888516346 
+            text = "P01
+typical phrase-ending motif for Daramad in Bayat-e Tork; here performed with a cluster of grace notes." 
+        intervals [5]:
+            xmin = 25.959580888516346 
+            xmax = 48.74306105557184 
+            text = "" 
+        intervals [6]:
+            xmin = 48.74306105557184 
+            xmax = 51.06319517124661 
+            text = "P01" 
+        intervals [7]:
+            xmin = 51.06319517124661 
+            xmax = 64.290875754561 
+            text = "" 
+        intervals [8]:
+            xmin = 64.290875754561 
+            xmax = 69.07285967352897 
+            text = "P01 variation
+with a small movement of lower tones added to the beginning." 
+        intervals [9]:
+            xmin = 69.07285967352897 
+            xmax = 74.9011710114958 
+            text = "" 
+        intervals [10]:
+            xmin = 74.9011710114958 
+            xmax = 79.68315493046379 
+            text = "P02 
+one of a couple of common motifs for opening phrases in Bayat-e Tork " 
+        intervals [11]:
+            xmin = 79.68315493046379 
+            xmax = 81.4903000161203 
+            text = "" 
+        intervals [12]:
+            xmin = 81.4903000161203 
+            xmax = 84.07590760021344 
+            text = "P02" 
+        intervals [13]:
+            xmin = 84.07590760021344 
+            xmax = 99.36810885110232 
+            text = "" 
+        intervals [14]:
+            xmin = 99.36810885110232 
+            xmax = 103.59404812832983 
+            text = "P01
+with a bit of a different duration/repetition of tones" 
+        intervals [15]:
+            xmin = 103.59404812832983 
+            xmax = 109.28521541950113 
+            text = "" 

@@ -1,0 +1,89 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 139.58097505668934 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_ABD_A_FS_P" 
+        xmin = 0 
+        xmax = 139.58097505668934 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30806094494908887 
+            text = " " 
+        intervals [2]:
+            xmin = 0.30806094494908887 
+            xmax = 2.900253981720657 
+            text = " P02 variation
+Typical motif to start with, with the variation here." 
+        intervals [3]:
+            xmin = 2.900253981720657 
+            xmax = 26.37398234103245 
+            text = " " 
+        intervals [4]:
+            xmin = 26.37398234103245 
+            xmax = 30.288904016430607 
+            text = " P01
+the typical motif to finish phrases in Daramad-e Abu'ata" 
+        intervals [5]:
+            xmin = 30.288904016430607 
+            xmax = 35.58368443176855 
+            text = " " 
+        intervals [6]:
+            xmin = 35.58368443176855 
+            xmax = 37.59847093244289 
+            text = "P02
+the typical motif to start phrases in Daramad-e Abu'ata" 
+        intervals [7]:
+            xmin = 37.59847093244289 
+            xmax = 67.31968816096386 
+            text = " " 
+        intervals [8]:
+            xmin = 67.31968816096386 
+            xmax = 71.1137666362597 
+            text = "P01 variation
+typical ending of phrases in Daramd-e Abu'ata, but without D" 
+        intervals [9]:
+            xmin = 71.1137666362597 
+            xmax = 74.7863911629947 
+            text = "" 
+        intervals [10]:
+            xmin = 74.7863911629947 
+            xmax = 75.75608246228472 
+            text = "P02
+Typical to start " 
+        intervals [11]:
+            xmin = 75.75608246228472 
+            xmax = 88.18447849418183 
+            text = " " 
+        intervals [12]:
+            xmin = 88.18447849418183 
+            xmax = 90.72619988471574 
+            text = " P01 variation
+the shorter one (without D)" 
+        intervals [13]:
+            xmin = 90.72619988471574 
+            xmax = 107.32292776463868 
+            text = " " 
+        intervals [14]:
+            xmin = 107.32292776463868 
+            xmax = 112.13882092565031 
+            text = " P01 variation
+Longer " 
+        intervals [15]:
+            xmin = 112.13882092565031 
+            xmax = 136.90530253483567 
+            text = "" 
+        intervals [16]:
+            xmin = 136.90530253483567 
+            xmax = 139.31994810333524 
+            text = "P01" 
+        intervals [17]:
+            xmin = 139.31994810333524 
+            xmax = 139.58097505668934 
+            text = "" 

@@ -1,0 +1,87 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 140.57820861678005 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_BAD_A_FS_P" 
+        xmin = 0 
+        xmax = 140.57820861678005 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11983909317960206 
+            text = "" 
+        intervals [2]:
+            xmin = 0.11983909317960206 
+            xmax = 5.520080864842726 
+            text = "P02 (without the Shour Shahed in the motif)
+one of a couple of common opening motifs for Bayat-e Tork" 
+        intervals [3]:
+            xmin = 5.520080864842726 
+            xmax = 12.70848216354662 
+            text = "" 
+        intervals [4]:
+            xmin = 12.70848216354662 
+            xmax = 16.105985264924083 
+            text = "P02 (without Shour shahed)" 
+        intervals [5]:
+            xmin = 16.105985264924083 
+            xmax = 63.13032327674948 
+            text = "" 
+        intervals [6]:
+            xmin = 63.13032327674948 
+            xmax = 66.90817323483833 
+            text = "P01
+typical phrase-ending motif
+INTONATION problems here! " 
+        intervals [7]:
+            xmin = 66.90817323483833 
+            xmax = 82.92994659725646 
+            text = "" 
+        intervals [8]:
+            xmin = 82.92994659725646 
+            xmax = 85.88353838267138 
+            text = "P01" 
+        intervals [9]:
+            xmin = 85.88353838267138 
+            xmax = 91.79072195350122 
+            text = "" 
+        intervals [10]:
+            xmin = 91.79072195350122 
+            xmax = 93.5766146609614 
+            text = "P01
+plus notes before" 
+        intervals [11]:
+            xmin = 93.5766146609614 
+            xmax = 96.392830084264 
+            text = "" 
+        intervals [12]:
+            xmin = 96.392830084264 
+            xmax = 98.59085187806114 
+            text = "P01
+plus a miniature Tahrir" 
+        intervals [13]:
+            xmin = 98.59085187806114 
+            xmax = 107.03949814796894 
+            text = "" 
+        intervals [14]:
+            xmin = 107.03949814796894 
+            xmax = 109.99308993338387 
+            text = "P01" 
+        intervals [15]:
+            xmin = 109.99308993338387 
+            xmax = 136.9600275606191 
+            text = "" 
+        intervals [16]:
+            xmin = 136.9600275606191 
+            xmax = 139.98230752709017 
+            text = "P01" 
+        intervals [17]:
+            xmin = 139.98230752709017 
+            xmax = 140.57820861678005 
+            text = "" 

@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 101.77483333333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "BAD_A_RR_P" 
+        xmin = 0 
+        xmax = 101.77483333333333 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07295685199033321 
+            text = "" 
+        intervals [2]:
+            xmin = 0.07295685199033321 
+            xmax = 3.6943057697913755 
+            text = "P1" 
+        intervals [3]:
+            xmin = 3.6943057697913755 
+            xmax = 8.702554273133243 
+            text = "" 
+        intervals [4]:
+            xmin = 8.702554273133243 
+            xmax = 11.399303467240403 
+            text = "p1" 
+        intervals [5]:
+            xmin = 11.399303467240403 
+            xmax = 12.863253029755716 
+            text = "" 
+        intervals [6]:
+            xmin = 12.863253029755716 
+            xmax = 15.714102177811856 
+            text = "P1" 
+        intervals [7]:
+            xmin = 15.714102177811856 
+            xmax = 21.107600566026175 
+            text = "" 
+        intervals [8]:
+            xmin = 21.107600566026175 
+            xmax = 23.496149852235373 
+            text = "P2" 
+        intervals [9]:
+            xmin = 23.496149852235373 
+            xmax = 31.355247503633382 
+            text = "" 
+        intervals [10]:
+            xmin = 31.355247503633382 
+            xmax = 34.43724658261299 
+            text = "P1" 
+        intervals [11]:
+            xmin = 34.43724658261299 
+            xmax = 64.02443774081725 
+            text = "" 
+        intervals [12]:
+            xmin = 64.02443774081725 
+            xmax = 68.33923645138871 
+            text = "P1" 
+        intervals [13]:
+            xmin = 68.33923645138871 
+            xmax = 82.28528228377145 
+            text = "" 
+        intervals [14]:
+            xmin = 82.28528228377145 
+            xmax = 86.29188108644495 
+            text = "P3" 
+        intervals [15]:
+            xmin = 86.29188108644495 
+            xmax = 96.77067795497561 
+            text = "" 
+        intervals [16]:
+            xmin = 96.77067795497561 
+            xmax = 100.8543267346236 
+            text = "P1" 
+        intervals [17]:
+            xmin = 100.8543267346236 
+            xmax = 101.77483333333333 
+            text = "" 

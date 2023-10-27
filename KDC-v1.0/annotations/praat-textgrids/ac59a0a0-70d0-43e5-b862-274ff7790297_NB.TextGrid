@@ -1,0 +1,79 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 86.37138321995465 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_ABD_N_MKH_P" 
+        xmin = 0 
+        xmax = 86.37138321995465 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4877012051555093 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4877012051555093 
+            xmax = 2.404380273615929 
+            text = "P02 variation
+instaed of EFG, it can go as GFG" 
+        intervals [3]:
+            xmin = 2.404380273615929 
+            xmax = 14.949308148572648 
+            text = "" 
+        intervals [4]:
+            xmin = 14.949308148572648 
+            xmax = 15.960063287829804 
+            text = " P02
+To start many phrase; relative durations might get different. " 
+        intervals [5]:
+            xmin = 15.960063287829804 
+            xmax = 23.41004758103297 
+            text = "" 
+        intervals [6]:
+            xmin = 23.41004758103297 
+            xmax = 27.101501133102584 
+            text = "P01
+To finish phrases in Daramad-e Abu'at, most of the time. " 
+        intervals [7]:
+            xmin = 27.101501133102584 
+            xmax = 29.241672774104643 
+            text = "" 
+        intervals [8]:
+            xmin = 29.241672774104643 
+            xmax = 30.977534861089758 
+            text = "P02
+To start phrases in Daramad-e Abu'at, in many cases." 
+        intervals [9]:
+            xmin = 30.977534861089758 
+            xmax = 37.016496371256466 
+            text = "" 
+        intervals [10]:
+            xmin = 37.016496371256466 
+            xmax = 38.785500660919276 
+            text = "P02" 
+        intervals [11]:
+            xmin = 38.785500660919276 
+            xmax = 51.79908323147309 
+            text = "" 
+        intervals [12]:
+            xmin = 51.79908323147309 
+            xmax = 53.95954361028966 
+            text = "P01" 
+        intervals [13]:
+            xmin = 53.95954361028966 
+            xmax = 81.78559127985814 
+            text = "" 
+        intervals [14]:
+            xmin = 81.78559127985814 
+            xmax = 85.82861183688676 
+            text = "P02
+typical for finishing phrases in Daramad" 
+        intervals [15]:
+            xmin = 85.82861183688676 
+            xmax = 86.37138321995465 
+            text = "" 

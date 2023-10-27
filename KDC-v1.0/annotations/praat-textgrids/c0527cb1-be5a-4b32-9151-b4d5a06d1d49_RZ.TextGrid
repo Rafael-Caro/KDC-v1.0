@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.752541666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_ABD_N_RR_P" 
+        xmin = 0 
+        xmax = 28.752541666666666 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04511096695289342 
+            text = " " 
+        intervals [2]:
+            xmin = 0.04511096695289342 
+            xmax = 4.191920636092761 
+            text = " P01 " 
+        intervals [3]:
+            xmin = 4.191920636092761 
+            xmax = 20.708936398901148 
+            text = "" 
+        intervals [4]:
+            xmin = 20.708936398901148 
+            xmax = 24.47931070678229 
+            text = "P02" 
+        intervals [5]:
+            xmin = 24.47931070678229 
+            xmax = 26.584716786590523 
+            text = "P02" 
+        intervals [6]:
+            xmin = 26.584716786590523 
+            xmax = 28.752541666666666 
+            text = "" 

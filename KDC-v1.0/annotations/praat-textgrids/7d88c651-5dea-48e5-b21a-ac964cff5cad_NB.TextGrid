@@ -1,0 +1,51 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 139.82943310657598 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_NAD_A_FS_P" 
+        xmin = 0 
+        xmax = 139.82943310657598 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 22.17945515507125 
+            text = "" 
+        intervals [2]:
+            xmin = 22.17945515507125 
+            xmax = 27.07921207041073 
+            text = "P02
+very common motif to close phrases in Nava" 
+        intervals [3]:
+            xmin = 27.07921207041073 
+            xmax = 60.995558135598266 
+            text = "" 
+        intervals [4]:
+            xmin = 60.995558135598266 
+            xmax = 65.75793868882542 
+            text = "P02" 
+        intervals [5]:
+            xmin = 65.75793868882542 
+            xmax = 97.06387037163786 
+            text = "" 
+        intervals [6]:
+            xmin = 97.06387037163786 
+            xmax = 101.41412183852805 
+            text = "P02" 
+        intervals [7]:
+            xmin = 101.41412183852805 
+            xmax = 133.53984383582994 
+            text = "" 
+        intervals [8]:
+            xmin = 133.53984383582994 
+            xmax = 138.71435347539406 
+            text = "P02" 
+        intervals [9]:
+            xmin = 138.71435347539406 
+            xmax = 139.82943310657598 
+            text = "" 

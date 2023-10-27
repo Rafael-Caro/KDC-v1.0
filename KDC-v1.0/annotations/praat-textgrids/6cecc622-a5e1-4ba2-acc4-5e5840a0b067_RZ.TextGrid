@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 82.486375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_RAD_N_RR_P" 
+        xmin = 0 
+        xmax = 82.486375 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.967352087601907 
+            text = "" 
+        intervals [2]:
+            xmin = 4.967352087601907 
+            xmax = 9.85608771935087 
+            text = "P01" 
+        intervals [3]:
+            xmin = 9.85608771935087 
+            xmax = 14.03631094070143 
+            text = "" 
+        intervals [4]:
+            xmin = 14.03631094070143 
+            xmax = 15.59503824357791 
+            text = "P02" 
+        intervals [5]:
+            xmin = 15.59503824357791 
+            xmax = 18.145682921012153 
+            text = "" 
+        intervals [6]:
+            xmin = 18.145682921012153 
+            xmax = 21.475691249884633 
+            text = "P03" 
+        intervals [7]:
+            xmin = 21.475691249884633 
+            xmax = 31.111460031302876 
+            text = "" 
+        intervals [8]:
+            xmin = 31.111460031302876 
+            xmax = 38.12573289424704 
+            text = "P04" 
+        intervals [9]:
+            xmin = 38.12573289424704 
+            xmax = 39.96786516128288 
+            text = " " 
+        intervals [10]:
+            xmin = 39.96786516128288 
+            xmax = 46.48617933694816 
+            text = "P05" 
+        intervals [11]:
+            xmin = 46.48617933694816 
+            xmax = 48.6825678091832 
+            text = "" 
+        intervals [12]:
+            xmin = 48.6825678091832 
+            xmax = 52.083427379095525 
+            text = "P06" 
+        intervals [13]:
+            xmin = 52.083427379095525 
+            xmax = 52.366832343254885 
+            text = "" 
+        intervals [14]:
+            xmin = 52.366832343254885 
+            xmax = 53.642154681972 
+            text = "P06" 
+        intervals [15]:
+            xmin = 53.642154681972 
+            xmax = 54.49236957445008 
+            text = "" 
+        intervals [16]:
+            xmin = 54.49236957445008 
+            xmax = 57.04301425188432 
+            text = "P07" 
+        intervals [17]:
+            xmin = 57.04301425188432 
+            xmax = 68.45006405929857 
+            text = "" 
+        intervals [18]:
+            xmin = 68.45006405929857 
+            xmax = 71.07155997777265 
+            text = "P08" 
+        intervals [19]:
+            xmin = 71.07155997777265 
+            xmax = 82.486375 
+            text = "" 

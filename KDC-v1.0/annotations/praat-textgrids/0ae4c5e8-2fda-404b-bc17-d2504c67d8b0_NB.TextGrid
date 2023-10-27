@@ -1,0 +1,45 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 120.26927437641723 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_SED_N_MKH_P" 
+        xmin = 0 
+        xmax = 120.26927437641723 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5602179379715003 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5602179379715003 
+            xmax = 4.794540167701616 
+            text = "P01 
+The very interval of Segah itself." 
+        intervals [3]:
+            xmin = 4.794540167701616 
+            xmax = 6.997494219397734 
+            text = "" 
+        intervals [4]:
+            xmin = 6.997494219397734 
+            xmax = 9.934766288325893 
+            text = "P01
+with repetitions and the tone in between." 
+        intervals [5]:
+            xmin = 9.934766288325893 
+            xmax = 55.93347975584152 
+            text = "" 
+        intervals [6]:
+            xmin = 55.93347975584152 
+            xmax = 63.64381893677793 
+            text = "P01
+with the tone in between and longer durations." 
+        intervals [7]:
+            xmin = 63.64381893677793 
+            xmax = 120.26927437641723 
+            text = "" 

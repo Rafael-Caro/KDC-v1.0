@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 147.40795918367348 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_AFD_A_FS_P" 
+        xmin = 0 
+        xmax = 147.40795918367348 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4381056160938809 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4381056160938809 
+            xmax = 11.275574182732607 
+            text = "P01 
+opening phrase
+INTONATION not to be trusted in this recording" 
+        intervals [3]:
+            xmin = 11.275574182732607 
+            xmax = 42.719918630356474 
+            text = "" 
+        intervals [4]:
+            xmin = 42.719918630356474 
+            xmax = 45.26138132943443 
+            text = "P02
+typical phrase-ending motif" 
+        intervals [5]:
+            xmin = 45.26138132943443 
+            xmax = 48.76447856329864 
+            text = "" 
+        intervals [6]:
+            xmin = 48.76447856329864 
+            xmax = 55.427232125746244 
+            text = "P01" 
+        intervals [7]:
+            xmin = 55.427232125746244 
+            xmax = 82.24046224095883 
+            text = "" 
+        intervals [8]:
+            xmin = 82.24046224095883 
+            xmax = 84.98798948320527 
+            text = "P02" 
+        intervals [9]:
+            xmin = 84.98798948320527 
+            xmax = 86.70519400960929 
+            text = "" 
+        intervals [10]:
+            xmin = 86.70519400960929 
+            xmax = 92.20024849410217 
+            text = "P01 variation
+with a jump to the fourth; usually coming in the second section of Daramd in Afshari" 
+        intervals [11]:
+            xmin = 92.20024849410217 
+            xmax = 116.30980004481465 
+            text = "" 
+        intervals [12]:
+            xmin = 116.30980004481465 
+            xmax = 119.0573272870611 
+            text = "P02 " 
+        intervals [13]:
+            xmin = 119.0573272870611 
+            xmax = 144.64838039071455 
+            text = "" 
+        intervals [14]:
+            xmin = 144.64838039071455 
+            xmax = 147.12115490873634 
+            text = "P02" 
+        intervals [15]:
+            xmin = 147.12115490873634 
+            xmax = 147.40795918367348 
+            text = "" 

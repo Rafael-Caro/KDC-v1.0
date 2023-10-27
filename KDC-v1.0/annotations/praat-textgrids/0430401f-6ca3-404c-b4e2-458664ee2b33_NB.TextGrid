@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 71.19140589569162 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_MAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 71.19140589569162 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 30.017471396867215 
+            text = "" 
+        intervals [2]:
+            xmin = 30.017471396867215 
+            xmax = 36.32014860381705 
+            text = "P01
+typical to close phrases in Mahour." 
+        intervals [3]:
+            xmin = 36.32014860381705 
+            xmax = 43.20238233554389 
+            text = "" 
+        intervals [4]:
+            xmin = 43.20238233554389 
+            xmax = 47.25927800898287 
+            text = "P01" 
+        intervals [5]:
+            xmin = 47.25927800898287 
+            xmax = 56.24240414302631 
+            text = "" 
+        intervals [6]:
+            xmin = 56.24240414302631 
+            xmax = 59.285075898105546 
+            text = "P01 variation
+a different end note." 
+        intervals [7]:
+            xmin = 59.285075898105546 
+            xmax = 64.57352918669564 
+            text = "" 
+        intervals [8]:
+            xmin = 64.57352918669564 
+            xmax = 70.51398356565986 
+            text = "P01" 
+        intervals [9]:
+            xmin = 70.51398356565986 
+            xmax = 71.19140589569162 
+            text = "" 

@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 81.71065759637189 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pattern_BAD_N_MKH_P" 
+        xmin = 0 
+        xmax = 81.71065759637189 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.515914584129264 
+            text = "" 
+        intervals [2]:
+            xmin = 5.515914584129264 
+            xmax = 8.467703528329464 
+            text = "P01 
+Signature for Daramad in Chahargah, to begin and end phrases with." 
+        intervals [3]:
+            xmin = 8.467703528329464 
+            xmax = 15.161077221814187 
+            text = "" 
+        intervals [4]:
+            xmin = 15.161077221814187 
+            xmax = 17.36452530692138 
+            text = "P01
+with slightly different durations" 
+        intervals [5]:
+            xmin = 17.36452530692138 
+            xmax = 29.481795011733535 
+            text = "" 
+        intervals [6]:
+            xmin = 29.481795011733535 
+            xmax = 33.535307998487326 
+            text = "P01 
+" 
+        intervals [7]:
+            xmin = 33.535307998487326 
+            xmax = 76.15181154557742 
+            text = "" 
+        intervals [8]:
+            xmin = 76.15181154557742 
+            xmax = 80.0185004240534 
+            text = "P01
+" 
+        intervals [9]:
+            xmin = 80.0185004240534 
+            xmax = 81.71065759637189 
+            text = "" 

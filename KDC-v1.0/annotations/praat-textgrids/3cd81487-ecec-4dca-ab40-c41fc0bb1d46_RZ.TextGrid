@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 85.7278125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "HOD_A_RR_P" 
+        xmin = 0 
+        xmax = 85.7278125 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.940998692765074 
+            text = "" 
+        intervals [2]:
+            xmin = 6.940998692765074 
+            xmax = 13.690741034142548 
+            text = "P1" 
+        intervals [3]:
+            xmin = 13.690741034142548 
+            xmax = 23.101439490870757 
+            text = "" 
+        intervals [4]:
+            xmin = 23.101439490870757 
+            xmax = 25.957099712222767 
+            text = "P1" 
+        intervals [5]:
+            xmin = 25.957099712222767 
+            xmax = 41.793033666993 
+            text = "" 
+        intervals [6]:
+            xmin = 41.793033666993 
+            xmax = 45.36260894368301 
+            text = "P2" 
+        intervals [7]:
+            xmin = 45.36260894368301 
+            xmax = 47.763959584365374 
+            text = "P3" 
+        intervals [8]:
+            xmin = 47.763959584365374 
+            xmax = 63.14558395846597 
+            text = "" 
+        intervals [9]:
+            xmin = 63.14558395846597 
+            xmax = 66.39065239182052 
+            text = "P4" 
+        intervals [10]:
+            xmin = 66.39065239182052 
+            xmax = 68.7271016638358 
+            text = "" 
+        intervals [11]:
+            xmin = 68.7271016638358 
+            xmax = 71.06355093585108 
+            text = "P1" 
+        intervals [12]:
+            xmin = 71.06355093585108 
+            xmax = 71.97217009719036 
+            text = "" 
+        intervals [13]:
+            xmin = 71.97217009719036 
+            xmax = 74.30861936920563 
+            text = "P5" 
+        intervals [14]:
+            xmin = 74.30861936920563 
+            xmax = 85.7278125 
+            text = "" 
