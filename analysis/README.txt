@@ -9,7 +9,7 @@ The performed analyses are:
 
 These results were published in the following paper:
 
-Babak Nikzat and Rafael Caro Repetto. 2022. "KDC: an open corpus for computational research of dastgāhi music." In Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 4-8, 2022, edited by Preeti Rao, Hema Murthy, Ajay Srinivasamurthy, Rachel Bittner, Rafael Caro Repetto, Masataka Goto, Xavier Serra, and Marius Miron, 321-328. Bengaluru: International Society for Music Information Retrieval.
+Babak Nikzat and Rafael Caro Repetto. 2022. "KDC: an open corpus for computational research of dastgāhi music." In Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 4-8, 2022, edited by Preeti Rao, Hema Murthy, Ajay Srinivasamurthy, Rachel Bittner, Rafael Caro Repetto, Masataka Goto, Xavier Serra, and Marius Miron, 321-328. Bengaluru: International Society for Music Information Retrieval. https://doi.org/10.5281/zenodo.7316660
 
 If you use either the data, the results or the code published in this repository, we kindly ask you to cite this paper.
 

@@ -20,15 +20,17 @@ All the data, metadata and annotations in KDC v1.0 are puublished under a Creati
 USE
 If you use KDC v1.0, please credit the authors by referencing the following paper:
 
-Babak Nikzat and Rafael Caro Repetto. 2022. "KDC: an open corpus for computational research of dastgāhi music." In Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 4-8, 2022, edited by Preeti Rao, Hema Murthy, Ajay Srinivasamurthy, Rachel Bittner, Rafael Caro Repetto, Masataka Goto, Xavier Serra, and Marius Miron, 321-328. Bengaluru: International Society for Music Information Retrieval.
+Babak Nikzat and Rafael Caro Repetto. 2022. "KDC: an open corpus for computational research of dastgāhi music." In Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 4-8, 2022, edited by Preeti Rao, Hema Murthy, Ajay Srinivasamurthy, Rachel Bittner, Rafael Caro Repetto, Masataka Goto, Xavier Serra, and Marius Miron, 321-328. Bengaluru: International Society for Music Information Retrieval. https://doi.org/10.5281/zenodo.7316660
 
 @INPROCEEDINGS{Nikzat_ISMIR2022_KDC,
   AUTHOR = {Nikzat, Babak and Caro Repetto, Rafael},
-  TITLE = {KDC: an open corpus for computational research of dastgāhi music},
+  TITLE = {{KDC}: an open corpus for computational research of \textit{dastgāhi} music},
   BOOKTITLE = {Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 4-8, 2022},
   YEAR = "2022",
   EDITOR = {Rao, Preeti and Murthy, Hema and Srinivasamurthy, Ajay and Bittner, Rachel and Caro Repetto, Rafael and Goto, Masataka and Serra, Xavier and Miron, Marius},
   PAGES = {321--328},
   ADDRESS = {Bengaluru, India},
-  PUBLISHER = {International Society for Music Information Retrieval}
+  PUBLISHER = {International Society for Music Information Retrieval},
+  DOI = {10.5281/zenodo.7316660},
+  URL = {https://doi.org/10.5281/zenodo.7316660}
 }
